@@ -1,0 +1,8 @@
+Order ID: 899822554
+client: Logan
+client address: Here
+criolla +pepinillos: $2500: $24500
+hawaiana: $20000
+price: 44500
+IVA 19% : 8455
+total: 52955

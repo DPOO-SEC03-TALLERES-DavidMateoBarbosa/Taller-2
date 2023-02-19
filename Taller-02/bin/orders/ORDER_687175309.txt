@@ -1,0 +1,9 @@
+Order ID: 687175309
+client: Here
+client address: Hello
+criolla: $22000
+hawaiana: $20000
+casera: $23000
+price: 65000
+IVA 19% : 12350
+total: 77350

@@ -1,0 +1,7 @@
+Order ID: 475497240
+client: Here
+client address: Here
+hawaiana: $20000
+price: 20000
+IVA 19% : 3800
+total: 23800
